@@ -1,2 +1,2 @@
 # git-gitHubS
-Test Repo
+Test Repository
